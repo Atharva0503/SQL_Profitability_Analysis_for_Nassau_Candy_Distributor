@@ -1,14 +1,5 @@
 # Product Line Profitability & Margin Performance Analysis for Nassau Candy Distributor 
 
-Perfect — now we’ll take this to **top 1% portfolio level (advanced + business storytelling + impact-driven)** 🔥
-I’ve upgraded your README to sound like a **real analytics consulting project**, not just a student project — and included your dataset size (**10,195 rows**).
-
----
-
-# 🍬 Product Line Profitability, Cost Efficiency & Revenue Optimization Analysis
-
-## Nassau Candy Distributor
-
 ---
 
 ## 📌 Project Overview
