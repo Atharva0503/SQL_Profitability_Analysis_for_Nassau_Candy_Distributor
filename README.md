@@ -1,3 +1,7 @@
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Excel](https://img.shields.io/badge/Excel-DataCleaning-green)
+
 # 🍬 Product Line Profitability, Cost Efficiency & Revenue Optimization Analysis for Nassau Candy Distributor
 
 ---
@@ -335,7 +339,6 @@ This project demonstrates:
 * Strong expertise in **SQL + Power BI storytelling**
 * Real-world **decision-making impact**
 
-👉 It highlights how data can drive **profit optimization, cost efficiency, and strategic growth**
 👉 This project demonstrates how data-driven decision-making can uncover hidden inefficiencies and significantly improve business profitability**
 
 ---
@@ -345,10 +348,3 @@ This project demonstrates:
 If you found this project valuable, give it a ⭐ on GitHub!
 
 ---
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Excel](https://img.shields.io/badge/Excel-DataCleaning-green)
