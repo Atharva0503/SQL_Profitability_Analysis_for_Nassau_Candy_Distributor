@@ -1,4 +1,4 @@
-# Product Line Profitability & Margin Performance Analysis for Nassau Candy Distributor 
+# 🍬 Product Line Profitability, Cost Efficiency & Revenue Optimization Analysis for Nassau Candy Distributor
 
 ---
 
@@ -132,7 +132,7 @@ Classified products into:
 
 ### 🔹 6. Pareto Analysis (80/20 Profit Concentration)
 
-* Demonstrated that a **small % of products generate majority of profit**
+* Demonstrated that a **small percentage of products generate majority of profit**
 * Highlighted **dependency risk on limited product lines**
 
 👉 Critical for **risk management and diversification strategy**
@@ -159,7 +159,7 @@ Classified products into:
   * High Sales + Low Margin
 * Represent **significant business risk despite strong demand**
 
-👉 These products create **illusion of performance while eroding profit**
+👉 These products create an illusion of strong performance while eroding profitability**
 
 ---
 
@@ -336,7 +336,7 @@ This project demonstrates:
 * Real-world **decision-making impact**
 
 👉 It highlights how data can drive **profit optimization, cost efficiency, and strategic growth**
-
+👉 This project demonstrates how data-driven decision-making can uncover hidden inefficiencies and significantly improve business profitability**
 
 ---
 
@@ -345,3 +345,10 @@ This project demonstrates:
 If you found this project valuable, give it a ⭐ on GitHub!
 
 ---
+
+
+
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Excel](https://img.shields.io/badge/Excel-DataCleaning-green)
