@@ -197,6 +197,7 @@ FROM nassau_candy_clean
 GROUP BY Region;
 -- Region Show Higher average order value
 
+
 -- 13 STATE ANALYSIS
 SELECT
 State,
@@ -221,8 +222,6 @@ ROUND(SUM(Gross_profit) / NULLIF(SUM(Sales), 0) * 100, 2) AS margin
 FROM nassau_candy_clean
 GROUP BY Ship_mode
 ORDER BY margin DESC;
-
--- 👉 Insight:
 -- Some shipping modes may reduce profitability Some shipping modes due to Higher logistics cost
 -- Helps optimize logistics cost strategy
 -- Standard Class shipping generates more profit
